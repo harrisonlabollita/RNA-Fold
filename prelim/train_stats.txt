@@ -1,0 +1,9 @@
+     Training Set Statistics 
+___________________________________
+|  Total # of Strands |   41953   |
+|  Mean               |   158.63  | 
+|  St. Dev            |   284.96  | 
+|  Longest Strand     |   4066    | 
+|  Shortest Strand    |   20      | 
+|  Average # of Bonds |   33.6    | 
+___________________________________ 
